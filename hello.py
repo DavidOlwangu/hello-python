@@ -1,3 +1,5 @@
 print ("Hello, World!")
-print ("It's Dave learning python.")
+print ("It's Dave, am learning python.")
 print ("I hope to gain more knowledge to sustain me build real projects soon.")
+print ("PYTHON BOOTCAMP ACCELERATOR CLASS DAY 2")
+print ("We reviewed yesterdays class")
