@@ -1,5 +1,10 @@
-print ("Hello, World!")
-print ("It's Dave, am learning python.")
-print ("I hope to gain more knowledge to sustain me build real projects soon.")
-print ("PYTHON BOOTCAMP ACCELERATOR CLASS DAY 2")
-print ("We reviewed yesterdays class")
+#This is a single line comment
+print ("\nHello, World!")
+
+"""
+This comment is for multiple
+lines in python programming
+"""
+#\n It is used to break a line of code
+print ("\nIt's Dave, am learning python.")
+print ("************\nI hope to gain more \nunderstanding of python\nto enable me build real projects.")
